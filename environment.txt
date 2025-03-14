@@ -1,0 +1,3 @@
+# Environment.txt
+snowflake-snowpark-python
+streamlit
